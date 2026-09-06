@@ -35,7 +35,7 @@ This project is a comprehensive data analytics dashboard built using **Power BI*
 
 ## 📸 Dashboard Preview
 ![Overall](Overall.png)
-![Vehicle Type](Vehicle Type.png)
+![Vehicle Type](Vehicle_Type.png)
 ![Revenue](Revenue.png)
 ![Cancellation](Cancellation.png)
 ![Ratings](Ratings.png)
