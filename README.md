@@ -9,8 +9,8 @@ This project is a comprehensive data analytics dashboard built using **Power BI*
 - **Ratings**: Driver and customer ratings across vehicle types.
 
 ## 🗓️ Data Period
-- **Start Date**: 01-07-2024  
-- **End Date**: 30-07-2024
+- **Start Date**: 01-07-2026  
+- **End Date**: 30-07-2026
 
 ## 📈 Key Metrics
 - **Total Bookings**: 20,407
